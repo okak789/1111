@@ -1,3 +1,5 @@
-"varf2" 
-"varf3" 
+ HEAD
+"varf2"
 
+"varf3"
+ f3
